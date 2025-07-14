@@ -15,7 +15,7 @@ ComfyUI adaptation of [IDM-VTON](https://github.com/yisol/IDM-VTON).
 - Clone this repo into `custom_nodes` folder in ComfyUI and install the dependencies.
 ```bash
 cd custom_nodes
-git clone https://github.com/TemryL/ComfyUI-IDM-VTON.git
+git clone https://github.com/roberto2321/virtual-tryon.git
 cd ComfyUI-IDM-VTON
 python install.py
 ```
