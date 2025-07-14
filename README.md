@@ -1,4 +1,4 @@
-# ComfyUI-IDM-VTON
+# Virtual Try On
 ComfyUI adaptation of [IDM-VTON](https://github.com/yisol/IDM-VTON).
 
 ![workflow](workflow.png)
